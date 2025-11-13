@@ -1,0 +1,14 @@
+This folder contains a solution notebook from a **course test / exam**:
+
+- `SOLUTION_test_a.ipynb` – solution code and analysis steps.
+
+The notebook works with a **real-world tabular dataset** (e.g. preferences / survey style data with fields such as budget, cuisines, gender, smoker, student, year of birth, etc.).
+
+Due to exam rules and course policy, the original dataset used in this test **cannot be shared** and is therefore **not included** in this repository.
+
+You can still review:
+- The analysis logic
+- The way the data is explored
+- The structure of the solution
+
+but the notebook cannot be executed fully without the original exam data file.
